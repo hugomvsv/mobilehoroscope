@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Modules/module.modulemap \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/ios/.symlinks/flutter/ios/Flutter.framework/Headers/Flutter.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/build/ios/Debug-iphonesimulator/connectivity/connectivity.framework/Modules/module.modulemap \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/build/ios/Debug-iphonesimulator/connectivity/connectivity.framework/Headers/FLTConnectivityLocationHandler.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/build/ios/Debug-iphonesimulator/connectivity/connectivity.framework/Headers/ConnectivityPlugin.h \
+  /Users/hugovieira/Desktop/flutter_projects/horoscopefinal/build/ios/Debug-iphonesimulator/connectivity/connectivity.framework/Headers/connectivity-umbrella.h
